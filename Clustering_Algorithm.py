@@ -91,6 +91,4 @@ def Predict(age=0.0, basketball=0.0, american_football=0.0, soccer=0.0, cricket=
     return groups
 
 
-# Test Case
-x = Predict(35, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3)
-print(x)
+
