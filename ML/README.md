@@ -3,6 +3,7 @@ Connex is a revolutionary app that aims to connect you to communities you never 
 
 # User Interface
 Connex was developed with the aim to appeal to as many users as possible which would not have been possible without it's amazing UI.
+
 <img width="432" alt="Screen Shot 2021-09-26 at 8 57 16 PM" src="https://user-images.githubusercontent.com/37068167/134843359-cceff7bc-e73e-4d0f-83ed-48f6a5501085.png">
 <img width="437" alt="Screen Shot 2021-09-26 at 8 57 27 PM" src="https://user-images.githubusercontent.com/37068167/134843372-70508d98-4ce3-4be2-ad96-b44fc6328c4d.png">
 <img width="415" alt="Screen Shot 2021-09-26 at 8 57 38 PM" src="https://user-images.githubusercontent.com/37068167/134843381-bcbefeed-3f90-4e66-a368-a0ca11d0ee0e.png">
